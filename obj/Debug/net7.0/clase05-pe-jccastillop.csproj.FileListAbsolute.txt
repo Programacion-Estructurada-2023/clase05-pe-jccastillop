@@ -1,0 +1,15 @@
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\bin\Debug\net7.0\clase05-pe-jccastillop.exe
+c:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\bin\Debug\net7.0\clase05-pe-jccastillop.deps.json
+c:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\bin\Debug\net7.0\clase05-pe-jccastillop.runtimeconfig.json
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\bin\Debug\net7.0\clase05-pe-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\bin\Debug\net7.0\clase05-pe-jccastillop.pdb
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.csproj.AssemblyReference.cache
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.AssemblyInfoInputs.cache
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.AssemblyInfo.cs
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.csproj.CoreCompileInputs.cache
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\refint\clase05-pe-jccastillop.dll
+C:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.pdb
+c:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\clase05-pe-jccastillop.genruntimeconfig.cache
+c:\Users\jccp5\OneDrive\Escritorio\UNIVO CICLO II\Programación Extructurada\Clase 5\clase05-pe-jccastillop\obj\Debug\net7.0\ref\clase05-pe-jccastillop.dll
